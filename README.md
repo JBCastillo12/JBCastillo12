@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JBCastillo12 and I am a tech enthusiast with a passion for networking, cybersecurity, and data analytics.
+- 🌱 I hold an associate degree in networking and cybersecurity,
+- 💞️ I am currently pursuing a Bachelor of Science in Computer Science with a concentration in Data Analytics and a minor in Emergency Preparedness, Homeland Security, and Cybersecurity.
+- ⚡  I am passionate about leveraging technology to solve real-world problems and am excited to be part of the tech community on GitHub.
